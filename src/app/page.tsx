@@ -62,7 +62,7 @@ export default function Home() {
                 client={client}
                 appMetadata={{
                   name: "QR Payment DApp",
-                  url: "https://qr-payment-dapp.com",
+                  url: "https://thirdweb-qr-dapp.vercel.app",
                 }}
               />
             </motion.div>
@@ -106,7 +106,7 @@ export default function Home() {
                 client={client}
                 appMetadata={{
                   name: "QR Payment DApp",
-                  url: "https://qr-payment-dapp.com",
+                  url: "https://thirdweb-qr-dapp.vercel.app",
                 }}
               />
             </motion.div>
